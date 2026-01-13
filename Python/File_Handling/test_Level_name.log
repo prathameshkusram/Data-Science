@@ -1,0 +1,13 @@
+2026-01-08 14:19:59,753 DEBUG This is for debugging
+2026-01-08 14:19:59,753 INFO This is my info msg
+2026-01-08 14:19:59,753 WARNING This is my warning msg
+2026-01-08 14:41:42,905 INFO processing each element1
+2026-01-08 14:41:42,906 INFO processing each elementhello
+2026-01-08 14:41:42,906 INFO processing each element[2, 'world']
+2026-01-08 14:41:42,906 INFO processing sublist element:2
+2026-01-08 14:41:42,906 INFO processing sublist element:world
+2026-01-08 14:41:42,906 INFO processing each element4
+2026-01-08 14:41:42,906 INFO processing each element[3, 'Python']
+2026-01-08 14:41:42,906 INFO processing sublist element:3
+2026-01-08 14:41:42,906 INFO processing sublist element:Python
+2026-01-08 14:41:42,906 INFO The Result is : [1, 2, 4, 3],['hello']
